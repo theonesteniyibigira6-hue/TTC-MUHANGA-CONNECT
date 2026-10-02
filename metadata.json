@@ -1,0 +1,6 @@
+{
+  "name": "TTC Muhanga Connect",
+  "description": "Authorized digital community for TTC Muhanga in Rwanda. One School. One Community. A Lifetime of Connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
