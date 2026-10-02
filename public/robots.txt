@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Keep private/account areas out of search crawling
+Disallow: /pages/settings.html
+Disallow: /pages/moderation.html
+Disallow: /pages/admin.html
+Disallow: /pages/dashboard.html
+Disallow: /pages/messages.html
+Disallow: /pages/notifications.html
+Disallow: /pages/profile.html
+
+Sitemap: https://ttc-muhanga-connect.vercel.app/sitemap.xml
